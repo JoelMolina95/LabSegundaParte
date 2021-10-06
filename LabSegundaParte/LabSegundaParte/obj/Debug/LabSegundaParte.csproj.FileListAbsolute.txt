@@ -1,0 +1,11 @@
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe.config
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.pdb
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
+C:\Users\Marvi\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb
+C:\Users\Joel Antonio Molina\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.AssemblyReference.cache
+C:\Users\Joel Antonio Molina\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\Joel Antonio Molina\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
+C:\Users\Joel Antonio Molina\Documents\GitHub\LabSegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb
